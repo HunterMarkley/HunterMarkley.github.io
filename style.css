@@ -1,5 +1,7 @@
 h2 {
     color: blue;
+
+    
 }
 
 body {
@@ -12,4 +14,7 @@ body {
 
 ol {
     color:violet;
+}
+div {
+    border: 2px solid black;
 }
