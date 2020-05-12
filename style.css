@@ -16,6 +16,7 @@ body {
 
 ol {
     color:violet;
+    padding-right: 0px;
 }
 div {
     border-width: 1px;
@@ -35,4 +36,29 @@ img{
     border: 2px solid black;
     box-shadow: 3px 3px 5px black; 
     margin-bottom: 6px;
+}
+
+#secretpuzzle{
+    color: green
+}
+#top5movies{
+    color:hotpink
+}
+#top10favoritefoods{
+    color:black
+}
+#statesihavetraveledto{
+    color:blueviolet
+}
+#studentwebsites{
+    color:cornflowerblue
+}
+#colors{
+    color:cyan
+}
+#htmlexperiment{
+    color:darkorange
+}
+#anyquestions{
+    color:red
 }
