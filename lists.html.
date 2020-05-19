@@ -2,17 +2,6 @@
 <link rel="stylesheet" href="style.css">
 <title> Hunters Website </Title>
 <h1> Hunter Markley </h1>
-
-<div>
-	<h2 id="secretpuzzle"> Secret Puzzle</h2>
-
-	<p class = "paragraph"> I <b>h</b>ave 3 <b>u</b>nbelievable dogs. There <b>n</b>ames are Otto,Buddy, and Molly. I also have 2 cats. One
-		is named Sammy and the other is named <b>T</b>oby. The Dogs are r<b>e</b>ally hype<b>r</b> and have a lot of
-		enegry and then the cats are chill.Heres some infor<i>m</i>ation <i>a</i>bout my 3 dogs.My dogs like to
-		<i>r</i>ace around the bac<i>k</i>yard p<i>l</i>aying ball.All thr<i>e</i>e of my dogs have a good relationship,
-		so we dont have to bab<i>y</i>sit them.</p>
-</div>
-
 <div>
 <h2 id="top5movies">Top 5 Movies</h2>
 <ol>
@@ -193,13 +182,7 @@
         <li  class = "questions"><b>Are you enjoying this class?</b></li> <body>I i'm enjoying this class very much.</body>
         <li  class = "questions"><b>Do you feel you are learning a lot in this class?</b></li> <body>I feel like i'm learning a lot about making websites in this class.</body>
         <li class = "questions"><b>How difficult do you find this class to be?</b></li> <body>I feel like it's pretty easy to me and smooth.</body>
-
-
-
-
-
-
-
+        
         </ul>
         </div>
 
